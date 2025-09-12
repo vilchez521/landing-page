@@ -31,7 +31,7 @@ const Hero = () => {
             
             <p className="text-lg text-muted-foreground mb-8 leading-relaxed">
               Soy Manuel Vílchez Sabalete, especialista RPA con más de 5 años de experiencia en UiPath, 
-              Blue Prism, Automation Anywhere y Power Automate. Ayudo a empresas a elegir y 
+              Blue Prism, Automation Anywhere y Power Automate. Ayudo a empresas a elegir e 
               implementar la plataforma RPA perfecta para sus necesidades específicas.
             </p>
             
