@@ -47,16 +47,18 @@ const About = () => {
             <h3 className="text-2xl font-semibold mb-4">Mi Historia</h3>
             <p className="text-muted-foreground leading-relaxed">
               Con más de 5 años de experiencia en automatización de procesos robóticos (RPA), 
-              he ayudado a decenas de empresas a optimizar sus operaciones y reducir costes operativos.
+              he ayudado a empresas de distintos sectores a optimizar sus operaciones, reducir costes y liberar tiempo para tareas de mayor valor.
             </p>
             <p className="text-muted-foreground leading-relaxed">
-              Mi enfoque se centra en entender profundamente los procesos de negocio antes de 
-              implementar soluciones tecnológicas, garantizando resultados medibles y sostenibles.
+              Mi enfoque se basa en comprender a fondo los procesos de negocio antes de automatizarlos, 
+              garantizando resultados eficientes, medibles y sostenibles.
             </p>
             <p className="text-muted-foreground leading-relaxed">
-              Especializado exclusivamente en las 4 plataformas RPA líderes del mercado: UiPath, 
-              Blue Prism, Automation Anywhere y Power Automate, adapto la solución perfecta 
-              para cada necesidad específica de tu empresa.
+              Especializado principalmente en UiPath, y con experiencia sólida en Blue Prism, Automation Anywhere y Power Automate, 
+              adapto la solución tecnológica más adecuada a cada necesidad.
+            </p>
+            <p className="text-muted-foreground leading-relaxed">
+              Transformo la automatización en un motor real de crecimiento empresarial.
             </p>
           </div>
 
